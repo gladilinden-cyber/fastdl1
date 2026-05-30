@@ -1,0 +1,13 @@
+czcs_penal.wad
+czde_truth.wad
+china.wad
+models/Reega_map/bed_king_zombi.mdl
+models/Reega_map/bush_planter.mdl
+models/Reega_map/lantern_japan.mdl
+models/Reega_map/royal_lamp.mdl
+models/Reega_map/sakura_tree1.mdl
+models/Reega_map/tree_yellow_china.mdl
+models/Reega_map/roof_china1.mdl
+sound/Reega_map/jail.wav
+sprites/Reega_map/fire3.spr
+maps/zm_dust_world_china.res
